@@ -24,13 +24,18 @@ namespace MetodosDasClasses
             //Console.WriteLine($"v1 {valor1}");
             //Console.WriteLine($"v2 {valor2}");
 
-            string nomeCompleto = m.MontaNome("Talison", "Brisola");
-            int codigoChar = m.CodigoChar('T');
-            Double pi = m.ValorPI();
+            //string nomeCompleto = m.MontaNome("Talison", "Brisola");
+            //int codigoChar = m.CodigoChar('T');
+            //Double pi = m.ValorPI();
 
-            Console.WriteLine(nomeCompleto);
-            Console.WriteLine(codigoChar);
-            Console.WriteLine(pi);
+            //Console.WriteLine(nomeCompleto);
+            //Console.WriteLine(codigoChar);
+            //Console.WriteLine(pi);
+
+
+            m.Cumplimentar();
+            m.Cumplimentar("Talison",13);
+            m.Comparar(100, 50 * 2);
 
 
             Console.ReadKey();

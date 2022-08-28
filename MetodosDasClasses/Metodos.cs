@@ -60,5 +60,19 @@ namespace MetodosDasClasses
         {
             return 3.1415;
         }
+
+        // sobrecarga de métodos
+
+        public void Cumplimentar(string nome, int hora)
+        {
+            string mensagem = hora < 12 ? "Bom dia, " + nome : "Boa tarde, " + nome;
+            Console.WriteLine(mensagem);
+        }
+
+        public bool Comparar(int num1, int num2)
+        {
+            return num1 == num2;
+
+        }
     }
 }
