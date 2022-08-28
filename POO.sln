@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesObjetos", "ClassesOb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosDasClasses", "MetodosDasClasses\MetodosDasClasses.csproj", "{D924CE68-519F-4766-A329-9F27FE6DBAEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermoThis", "TermoThis\TermoThis.csproj", "{2E6B4FB4-5E2D-4D4E-8496-A35D56281018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDelegate", "TipoDelegate\TipoDelegate.csproj", "{29D676F5-9A80-4D5D-9EED-485A3CFE78FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D924CE68-519F-4766-A329-9F27FE6DBAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D924CE68-519F-4766-A329-9F27FE6DBAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D924CE68-519F-4766-A329-9F27FE6DBAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6B4FB4-5E2D-4D4E-8496-A35D56281018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6B4FB4-5E2D-4D4E-8496-A35D56281018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6B4FB4-5E2D-4D4E-8496-A35D56281018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6B4FB4-5E2D-4D4E-8496-A35D56281018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D676F5-9A80-4D5D-9EED-485A3CFE78FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D676F5-9A80-4D5D-9EED-485A3CFE78FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D676F5-9A80-4D5D-9EED-485A3CFE78FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D676F5-9A80-4D5D-9EED-485A3CFE78FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
