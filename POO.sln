@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermoThis", "TermoThis\Term
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDelegate", "TipoDelegate\TipoDelegate.csproj", "{29D676F5-9A80-4D5D-9EED-485A3CFE78FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoConstrutor", "MetodoConstrutor\MetodoConstrutor.csproj", "{83347F84-C0C9-4E6F-AFE2-68B859D979A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{29D676F5-9A80-4D5D-9EED-485A3CFE78FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29D676F5-9A80-4D5D-9EED-485A3CFE78FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29D676F5-9A80-4D5D-9EED-485A3CFE78FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83347F84-C0C9-4E6F-AFE2-68B859D979A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83347F84-C0C9-4E6F-AFE2-68B859D979A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83347F84-C0C9-4E6F-AFE2-68B859D979A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83347F84-C0C9-4E6F-AFE2-68B859D979A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
